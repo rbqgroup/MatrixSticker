@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "Ahhegao.json",
+    "Nekoharu.json",
+    "NEKOPARA_Stickers.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
