@@ -1,6 +1,6 @@
 aiohttp
 yarl
 pillow
-telethon
+telethon==1.18.2
 cryptg
 python-magic
