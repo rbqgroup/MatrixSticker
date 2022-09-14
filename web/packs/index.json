@@ -2,7 +2,13 @@
   "packs": [
     "Ahhegao.json",
     "Nekoharu.json",
-    "NEKOPARA_Stickers.json"
+    "NEKOPARA_Stickers.json",
+    "nekoparakanmurimoriyasushi.json",
+    "smart_falcon_g_by_luxiaoxun_bot.json",
+    "http_cat.json",
+    "opensusecnstickers.json",
+    "TTTimeBBBot.json",
+    "doHnaStickers.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }

@@ -1,8 +1,13 @@
 # Maunium sticker picker
-A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
+被选定作为绒布球聊天室表情包的承载！
+## 如何提交新表情包：
+请clone本仓库并自行上传表情包并pr
 
-## Discussion
-Matrix room: [`#stickerpicker:maunium.net`](https://matrix.to/#/#stickerpicker:maunium.net)
+*小提示：登录服务器建议选matrix.org；从telegram抓表情包需要魔法；telephon库不要太大，亲测1.18.2没问题； 最好用Linux系统*
+
+上传时记得 **检查不要把** *config.json* 和 *sticker-import.session* 传上来（貌似默认ignore，这俩是登录信息！）
+
+下面的是原来的介绍：
 
 ## Instructions
 For setup and usage instructions, please visit the [wiki](https://github.com/maunium/stickerpicker/wiki):
